@@ -1,0 +1,7 @@
+C:\Users\tnswh\sunjo\bit_education_C#\class5.1\bin\Debug\class5.1.exe.config
+C:\Users\tnswh\sunjo\bit_education_C#\class5.1\bin\Debug\class5.1.exe
+C:\Users\tnswh\sunjo\bit_education_C#\class5.1\bin\Debug\class5.1.pdb
+C:\Users\tnswh\sunjo\bit_education_C#\class5.1\obj\Debug\class5.1.csprojAssemblyReference.cache
+C:\Users\tnswh\sunjo\bit_education_C#\class5.1\obj\Debug\class5.1.csproj.CoreCompileInputs.cache
+C:\Users\tnswh\sunjo\bit_education_C#\class5.1\obj\Debug\class5.1.exe
+C:\Users\tnswh\sunjo\bit_education_C#\class5.1\obj\Debug\class5.1.pdb
