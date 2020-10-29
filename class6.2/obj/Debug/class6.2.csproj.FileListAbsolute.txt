@@ -1,0 +1,7 @@
+C:\Users\tnswh\sunjo\bit_education_C#\class6.2\bin\Debug\class6.2.exe.config
+C:\Users\tnswh\sunjo\bit_education_C#\class6.2\bin\Debug\class6.2.exe
+C:\Users\tnswh\sunjo\bit_education_C#\class6.2\bin\Debug\class6.2.pdb
+C:\Users\tnswh\sunjo\bit_education_C#\class6.2\obj\Debug\class6.2.csprojAssemblyReference.cache
+C:\Users\tnswh\sunjo\bit_education_C#\class6.2\obj\Debug\class6.2.csproj.CoreCompileInputs.cache
+C:\Users\tnswh\sunjo\bit_education_C#\class6.2\obj\Debug\class6.2.exe
+C:\Users\tnswh\sunjo\bit_education_C#\class6.2\obj\Debug\class6.2.pdb
