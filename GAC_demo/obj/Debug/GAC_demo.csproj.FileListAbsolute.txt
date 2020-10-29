@@ -1,0 +1,5 @@
+C:\Users\tnswh\sunjo\bit_education_C#\GAC_demo\bin\Debug\GAC_demo.dll
+C:\Users\tnswh\sunjo\bit_education_C#\GAC_demo\bin\Debug\GAC_demo.pdb
+C:\Users\tnswh\sunjo\bit_education_C#\GAC_demo\obj\Debug\GAC_demo.csproj.CoreCompileInputs.cache
+C:\Users\tnswh\sunjo\bit_education_C#\GAC_demo\obj\Debug\GAC_demo.dll
+C:\Users\tnswh\sunjo\bit_education_C#\GAC_demo\obj\Debug\GAC_demo.pdb

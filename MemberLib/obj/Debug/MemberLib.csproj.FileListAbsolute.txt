@@ -1,0 +1,5 @@
+C:\Users\tnswh\sunjo\bit_education_C#\MemberLib\bin\Debug\MemberLib.dll
+C:\Users\tnswh\sunjo\bit_education_C#\MemberLib\bin\Debug\MemberLib.pdb
+C:\Users\tnswh\sunjo\bit_education_C#\MemberLib\obj\Debug\MemberLib.csproj.CoreCompileInputs.cache
+C:\Users\tnswh\sunjo\bit_education_C#\MemberLib\obj\Debug\MemberLib.dll
+C:\Users\tnswh\sunjo\bit_education_C#\MemberLib\obj\Debug\MemberLib.pdb

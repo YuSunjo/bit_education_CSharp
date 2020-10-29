@@ -1,0 +1,10 @@
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\bin\Debug\DLL_practice.exe.config
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\bin\Debug\DLL_practice.exe
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\bin\Debug\DLL_practice.pdb
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\bin\Debug\MemberLib.dll
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\bin\Debug\MemberLib.pdb
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\obj\Debug\DLL_practice.csprojAssemblyReference.cache
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\obj\Debug\DLL_practice.csproj.CoreCompileInputs.cache
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\obj\Debug\DLL_practice.csproj.CopyComplete
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\obj\Debug\DLL_practice.exe
+C:\Users\tnswh\sunjo\bit_education_C#\DLL_practice\obj\Debug\DLL_practice.pdb
